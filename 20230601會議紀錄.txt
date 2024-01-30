@@ -1,0 +1,21 @@
+##############Meeting Minutes#######################
+1.研究方法改善。
+2.緒論引用需要增加。
+研究方法使用以下項目增加詳細實作過程:
+	Three Pre-processing:
+1.BERT
+2.jieba or KPIC
+3.Make a vocabuary
+以上皆用資料集為Chinese Healthcare Named Entity Recognition (HealthNER)，是由NCUEE NLP研究室人員收集與標記(Lee et al., 2021)
+或使用相同標記方式對經處理之收集的句子所獲得的資料集。
+
+	Ways of Embedding:
+1.Bert
+2.Bert+BiLSTM
+3.Wordtovector
+
+	System:
+Choose Apprapriate System=>網站搭建=>選擇盡量熟悉的工具
+	甘特圖:
+從6/12到12/26作為工作進程
+視情形調整比重
